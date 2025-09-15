@@ -1,3 +1,3 @@
 # javascript-
-Intermediate javascript
+Intermediate javascript.
 Author - Abhishek
