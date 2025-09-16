@@ -1,4 +1,4 @@
 # javascript-
 Intermediate javascript.
 <br>
-Author - Abhishek
+Author - Abhishek Dwivedi
